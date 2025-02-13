@@ -1,0 +1,21 @@
+command to change name
+>git config --global user.name "enter username"
+
+command to change email
+>git config --global.email "enter email"
+
+command to check email & user name
+>git config --list
+
+command to initialize git
+>git init
+
+command to add
+>git add -A
+
+command to commit
+>git commit -m "pass a message"
+
+command to check status of files
+>git status
+
