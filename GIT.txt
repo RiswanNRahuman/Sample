@@ -41,3 +41,4 @@ command for listing branch
 >git branch
 
 >pulled
+>new
