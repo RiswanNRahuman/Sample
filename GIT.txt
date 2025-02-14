@@ -39,3 +39,5 @@ command for push
 
 command for listing branch
 >git branch
+
+>pulled
